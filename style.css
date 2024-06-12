@@ -1,0 +1,14 @@
+.fs-1 {
+    display: inline;
+    font-weight: bolder;
+    color: blueviolet;
+}
+
+.container {
+    background-color: rgb(252, 252, 252);
+    width: 100%;
+}
+#logo {
+    width: 100px;
+    height: 95px;
+}
